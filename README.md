@@ -23,10 +23,8 @@ Open in Android Studio or run from the project root:
 ./gradlew assembleDebug
 ```
 
-If the Gradle wrapper is missing, generate it with:
-
-```bash
-gradle wrapper
-```
-
 Then build or run the app on a device/emulator.
+
+
+Sign in page<img width="1080" height="2340" alt="Screenshot_20260220_142532" src="https://github.com/user-attachments/assets/ac744a0a-a5ff-4a6f-a026-2d97094e17db" />
+: 
