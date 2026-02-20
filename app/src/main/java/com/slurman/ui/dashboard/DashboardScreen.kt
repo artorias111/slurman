@@ -53,7 +53,7 @@ fun DashboardScreen(
 private fun JobCard(job: SlurmJob, modifier: Modifier = Modifier) {
     Card(
         modifier = modifier.fillMaxWidth(),
-        colors = CardDefaults.cardColors(MaterialTheme.colorScheme),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant),
         elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
         shape = CardDefaults.shape
     ) {
